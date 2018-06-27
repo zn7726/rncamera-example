@@ -2,9 +2,14 @@
   "name": "RNCameraExample",
   "version": "0.0.1",
   "dependencies": {
-    "react": "16.0.0",
-    "react-native": "0.51.0",
-    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera"
+    "pretty-format": "^23.0.1",
+    "react": "16.3.1",
+    "react-native": "~0.55.2",
+    "react-native-camera": "git+https://git@github.com/react-native-community/react-native-camera",
+    "react-native-canvas": "^0.1.21",
+    "react-native-fs": "^2.10.14",
+    "react-native-view-shot": "^2.4.0",
+    "rn-fetch-blob": "^0.10.10"
   },
   "devDependencies": {
     "babel-jest": "22.0.4",
